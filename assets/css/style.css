@@ -1,3 +1,30 @@
-html {
+body {
     font-family: 'KoHo', sans-serif;
+    background-color: #000;
+    color: #0ece34;
+}
+
+nav {
+    background-color: #000;
+}
+
+.navbar-brand {
+    font-family: 'VT323', monospace;
+    color: #0ece34 !important;
+    font-size: 2rem;
+}
+
+.btn {
+    border: 1px solid #0ece34 !important;
+    color: #0ece34;
+}
+
+label {
+    color: #0ece34 !important;
+    white-space: nowrap;
+}
+
+.w-50 {
+    border: 2px solid #0ece34;
+    color: #0ece34;
 }
